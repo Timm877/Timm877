@@ -15,6 +15,7 @@ Repository: https://github.com/Timm877/BCI_upper_limb_MI
 <img scr="https://github.com/Timm877/Timm877/blob/main/BCI.gif" width="256" />
 
 #### Explainable machine learning prediction of acute kidney injury from intensive care unit data
+Repository not available due to privacy reasons.
 
 #### Improving Embeddings by Augmenting DBPedia with Results of SPARQL Queries
 Repository: https://github.com/Timm877/TimdeBoer_QueryGraphProject
