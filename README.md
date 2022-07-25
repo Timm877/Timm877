@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tim
 #### I am a master student Artificial Intelligence
-![I am a master student Artificial Intelligence](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a master student Artificial Intelligence]
 
 My main interests right now are artificial intelligence, the human body, and doing research. I try to combine my interests by working on brain-computer interfaces and projects related to AI for health.
 Next to this, I really enjoy learning something new outside of work, like learning a new language, a new sport, or a new skill.
