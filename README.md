@@ -12,7 +12,7 @@ Next to this, I really enjoy learning something new outside of work, like learni
 ## Examples of work
 #### Brain-Computer Interface using Deep Learning for upper-limb motor imagery decoding 
 Repository: https://github.com/Timm877/BCI_upper_limb_MI
-<img scr="https://github.com/Timm877/Timm877/blob/main/BCI.gif" width="256" >
+<img src="https://github.com/Timm877/Timm877/blob/main/BCI.gif" width="256" >
 
 #### Explainable machine learning prediction of acute kidney injury from intensive care unit data
 Repository not available due to privacy reasons.
