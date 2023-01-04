@@ -4,8 +4,8 @@
 My main interests right now are artificial intelligence, the human body, and doing research. I try to combine my interests by working on brain-computer interfaces and projects related to AI for health.
 Next to this, I really enjoy learning something new outside of work, like learning a new language, a new sport, or a new skill.
 
-- 🔭 I just finished my master research project which I did in Elche, Spain, developing a brain-computer interface.
-- :memo: Currently trying to explain what I learned during my master by writing blog posts on Medium: https://medium.com/@timdb877.
+- 🔭 I finished my master research project which I did in Elche, Spain, developing a brain-computer interface.
+- :memo: Explained what I learned during my master by writing blog posts on Medium: https://medium.com/@timdb877.
 - :earth_americas: Traveled a part of the world at the end of 2022.
 
 
